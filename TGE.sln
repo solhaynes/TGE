@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TGI.WebApi", "TGI.WebApi\TGI.WebApi.csproj", "{DFFFDDCF-F433-481C-AD81-EAB6C20922B0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TGI.WebApi", "TGE.WebApi\TGI.WebApi.csproj", "{351D69B3-60C2-4D8F-8530-1DB00667F289}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +18,9 @@ Global
 		{DFFFDDCF-F433-481C-AD81-EAB6C20922B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFFFDDCF-F433-481C-AD81-EAB6C20922B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFFFDDCF-F433-481C-AD81-EAB6C20922B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{351D69B3-60C2-4D8F-8530-1DB00667F289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{351D69B3-60C2-4D8F-8530-1DB00667F289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{351D69B3-60C2-4D8F-8530-1DB00667F289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{351D69B3-60C2-4D8F-8530-1DB00667F289}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
