@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Identity;
 
 namespace TGE.Data.Entities;
 
-public class Users : IdentityUser<int>
+public class UserEntity : IdentityUser<int>
 {
   [Required]
   [MaxLength(100)]
