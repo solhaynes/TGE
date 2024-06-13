@@ -7,10 +7,4 @@ namespace MyApp.Namespace
     [ApiController]
     public class UserController : ControllerBase
     {
-        private readonly IUserService _userService;
-        public UserController(IUserService userService)
-        {
-            _userService = userService;
-        }
-    }
-}
+        private re
