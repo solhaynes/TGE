@@ -1,11 +1,12 @@
 using Microsoft.AspNetCore.Mvc;
+using TGE.Services.
 
 namespace TGI.WebApi.Controllers;
 
 [Route("api/[controller]")]
 public class LikesController : ControllerBase
 {
-    private readonly ApplicationDbContext _context;
+    private readonly  _context;
 
     public LikesController(ApplicationDbContext context)
     {
